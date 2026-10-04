@@ -1,16 +1,16 @@
-## Hi there 👋
+# Jovana Erak
 
-<!--
-**jovanaerak/jovanaerak** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Computer Science student at the University of Georgia interested in software development, AI, automation, and creative technology.
 
-Here are some ideas to get you started:
+## Skills
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- **Programming:** Java, Python, C++, Processing
+- **Tools & Infrastructure:** WSL2, Ollama, REST APIs, Mathematica, Docker
+- **Software:** Microsoft Word, Excel, Outlook, PowerPoint, Teams, Canva, Lightroom
+- **Languages:** German (fluent), Serbo-Croatian (fluent), French (basic)
+
+## Education
+
+**University of Georgia**  
+B.S. Computer Science · Minor in Mathematics · 4.00 GPA · Presidential Scholar  
+Expected May 2029
